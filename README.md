@@ -59,4 +59,29 @@ Accepted papers:
 - 2023: 
     - https://openaccess.thecvf.com/CVPR2023?day=all
 
-### 7. 
+### 7. ICCV 
+
+### 8. ECCV 
+
+### 9. ACL 
+
+
+### 10. EMNLP 
+
+### 11. NAACL 
+
+### 12. Interspeech 
+
+### 13. ICASSP 
+
+## II. Journals 
+
+### 1. JMLR 
+
+
+### 2. TPAMI 
+
+### 3. AJI 
+
+### 4. ACM MM 
+
