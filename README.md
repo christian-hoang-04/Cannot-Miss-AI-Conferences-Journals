@@ -50,29 +50,94 @@ Accepted papers:
     - Workshops: https://openreview.net/group?id=ijcai.org/IJCAI/2023
 
 ### 6. CVPR - https://www.thecvf.com/
-- 2026: 
-    - https://openaccess.thecvf.com/CVPR2026?day=all
-- 2025: 
-    - https://openaccess.thecvf.com/CVPR2025?day=all
-- 2024: 
-    - https://openaccess.thecvf.com/CVPR2024?day=all
-- 2023: 
-    - https://openaccess.thecvf.com/CVPR2023?day=all
+- 2026: https://openaccess.thecvf.com/CVPR2026?day=all
+- 2025: https://openaccess.thecvf.com/CVPR2025?day=all
+- 2024: https://openaccess.thecvf.com/CVPR2024?day=all
+- 2023: https://openaccess.thecvf.com/CVPR2023?day=all
 
-### 7. ICCV 
+### 7. ICCV - https://iccv.thecvf.com/
+- 2025: 
+    - Main Conference: https://openaccess.thecvf.com/ICCV2025?day=all
+    - Workshops: https://openaccess.thecvf.com/ICCV2025_workshops/menu
+- 2023: 
+    - Main Conference: https://openaccess.thecvf.com/ICCV2023?day=all
+    - Workshops: https://openaccess.thecvf.com/ICCV2023_workshops/menu
 
 ### 8. ECCV 
+- 2024: https://www.ecva.net/papers.php
 
-### 9. ACL 
 
+### 9. WACV 
+- 2026: 
+    - Main Conference: https://openaccess.thecvf.com/WACV2026?day=all
+    - Workshops: https://openaccess.thecvf.com/WACV2026_workshops/menu
+- 2025: 
+    - Main Conference: https://openaccess.thecvf.com/WACV2025 
+    - Workshops: https://openaccess.thecvf.com/WACV2025_workshops/menu
+- 2024: 
+    - Main Conference: https://openaccess.thecvf.com/WACV2024
+    - Workshops: https://openaccess.thecvf.com/WACV2024_workshops/menu
+- 2023: 
+    - Main Conference: https://openaccess.thecvf.com/WACV2023
+    - Workshops: https://openaccess.thecvf.com/WACV2023_workshops/menu
 
-### 10. EMNLP 
+### 10. ACL 
+- 2025: 
+    - Main Conference: https://2025.aclweb.org/program/main_papers/
+    - Findings Papers: https://2025.aclweb.org/program/find_papers/
+    - System Demonstrations Papers: https://2025.aclweb.org/program/demo_papers/
+    - Industry Track Papers: https://2025.aclweb.org/program/ind_papers/
+    - CL Papers: https://2025.aclweb.org/program/cl_papers/
+    - TACL Papers: https://2025.aclweb.org/program/tacl_papers/
+- 2024: 
+    - Main Conference: https://2024.aclweb.org/program/main_conference_papers/
+    - Findings Papers: https://2024.aclweb.org/program/finding_papers/
+    - Demo Papers: https://2024.aclweb.org/program/demo_papers/
+    - TACL Papers: https://2024.aclweb.org/program/tacl_papers/
+    - CL Papers: https://2024.aclweb.org/program/cl_papers/
+    - SRW Papers: https://2024.aclweb.org/program/srw_papers/
+- 2023: 
+    - Main Conference: https://2023.aclweb.org/program/accepted_main_conference/
+    - Findings: https://2023.aclweb.org/program/accepted_findings/
+    - Industry Track: https://2023.aclweb.org/program/accepted_industry_track/
+    - System Demonstration: https://2023.aclweb.org/program/accepted_system_demonstration/
 
-### 11. NAACL 
+### 11. EMNLP 
+- 2025: 
+    - Main Conference: https://2025.emnlp.org/program/main_papers/
+    - Findings Papers: https://2025.emnlp.org/program/find_papers/
+    - Demonstrations Papers: https://2025.emnlp.org/program/demo_papers/ 
+    - Industry Track Papers: https://2025.emnlp.org/program/ind_papers/
+    - CL Papers: https://2025.emnlp.org/program/cl_papers/
+    - TACL Papers: https://2025.emnlp.org/program/tacl_papers/
 
-### 12. Interspeech 
+- 2024: 
+    - Main Conference: https://2024.emnlp.org/program/accepted_main_conference/
+    - Findings: https://2024.emnlp.org/program/accepted_findings/
+    - Industry Track: https://2024.emnlp.org/program/industry/
+    - System Demonstrations: https://2024.emnlp.org/program/demo/
+    - TACL: https://2024.emnlp.org/program/accepted_tacl/
+- 2023: 
+    - Main Conference: https://2023.emnlp.org/program/accepted_main_conference/
+    - Findings: https://2023.emnlp.org/program/accepted_findings/
+    - Industry Track: https://2023.emnlp.org/program/industry/
+    - System Demonstration: https://2023.emnlp.org/program/demo/
 
-### 13. ICASSP 
+### 12. NAACL 
+
+- 2025: 
+    - Main Conference + Findings + Industry Track: https://2025.naacl.org/program/accepted_papers/
+    - Workshops: https://2025.naacl.org/program/workshops/
+- 2024: 
+    - Main Conference + Findings Papers: https://2024.naacl.org/program/accepted_papers/ 
+    - Industry Papers: https://2024.naacl.org/program/accepted_papers_industry/
+    - Workshops: https://2024.naacl.org/program/workshops/
+    - Demo Papers: https://2024.naacl.org/program/accepted_papers_demo/ 
+- 2023: combined with ACL 
+
+### 13. Interspeech 
+
+### 14. ICASSP 
 
 ## II. Journals 
 
