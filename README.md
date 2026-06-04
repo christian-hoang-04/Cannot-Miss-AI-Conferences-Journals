@@ -146,7 +146,7 @@ Accepted papers:
 
 ## II. Journals 
 
-### 1. JMLR 
+### 1. JMLR - https://jmlr.org/
 
 - 2026: https://jmlr.org/papers/v26/
 - 2025: https://jmlr.org/papers/v25/
@@ -155,8 +155,8 @@ Accepted papers:
 
 ### 2. TPAMI - not fully open
 
-### 3. ACM MM 
+### 3. ACM MM - https://acmmm.org/
 
 - 2025: https://acmmm2025.org/accepted-regular-papers/
-- 2024: not available
+- 2024: https://2024.acmmm.org/accepted-list
 - 2023: not avaialble
