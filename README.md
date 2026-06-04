@@ -138,16 +138,25 @@ Accepted papers:
 
 ### 13. Interspeech 
 
-### 14. ICASSP 
+- 2025: https://www.isca-archive.org/interspeech_2025/
+- 2024: https://www.isca-archive.org/interspeech_2024/
+- 2023: https://www.isca-archive.org/interspeech_2023/
+
+### 14. ICASSP - not available
 
 ## II. Journals 
 
 ### 1. JMLR 
 
+- 2026: https://jmlr.org/papers/v26/
+- 2025: https://jmlr.org/papers/v25/
+- 2024: https://jmlr.org/papers/v24/
+- 2023: https://jmlr.org/papers/v23/
 
-### 2. TPAMI 
+### 2. TPAMI - not fully open
 
-### 3. AJI 
+### 3. ACM MM 
 
-### 4. ACM MM 
-
+- 2025: https://acmmm2025.org/accepted-regular-papers/
+- 2024: not available
+- 2023: not avaialble
