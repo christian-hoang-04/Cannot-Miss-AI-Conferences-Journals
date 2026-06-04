@@ -63,11 +63,11 @@ Accepted papers:
     - Main Conference: https://openaccess.thecvf.com/ICCV2023?day=all
     - Workshops: https://openaccess.thecvf.com/ICCV2023_workshops/menu
 
-### 8. ECCV 
+### 8. ECCV - https://eccv2024.ecva.net/
 - 2024: https://www.ecva.net/papers.php
 
 
-### 9. WACV 
+### 9. WACV - https://wacv.thecvf.com/
 - 2026: 
     - Main Conference: https://openaccess.thecvf.com/WACV2026?day=all
     - Workshops: https://openaccess.thecvf.com/WACV2026_workshops/menu
@@ -81,7 +81,7 @@ Accepted papers:
     - Main Conference: https://openaccess.thecvf.com/WACV2023
     - Workshops: https://openaccess.thecvf.com/WACV2023_workshops/menu
 
-### 10. ACL 
+### 10. ACL - https://aclanthology.org/
 - 2025: 
     - Main Conference: https://2025.aclweb.org/program/main_papers/
     - Findings Papers: https://2025.aclweb.org/program/find_papers/
@@ -102,7 +102,7 @@ Accepted papers:
     - Industry Track: https://2023.aclweb.org/program/accepted_industry_track/
     - System Demonstration: https://2023.aclweb.org/program/accepted_system_demonstration/
 
-### 11. EMNLP 
+### 11. EMNLP - https://2026.emnlp.org/
 - 2025: 
     - Main Conference: https://2025.emnlp.org/program/main_papers/
     - Findings Papers: https://2025.emnlp.org/program/find_papers/
@@ -123,8 +123,9 @@ Accepted papers:
     - Industry Track: https://2023.emnlp.org/program/industry/
     - System Demonstration: https://2023.emnlp.org/program/demo/
 
-### 12. NAACL 
+### 12. NAACL - https://naacl.org/
 
+- 2026: combined with ACL 
 - 2025: 
     - Main Conference + Findings + Industry Track: https://2025.naacl.org/program/accepted_papers/
     - Workshops: https://2025.naacl.org/program/workshops/
