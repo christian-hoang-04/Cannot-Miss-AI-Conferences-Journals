@@ -37,3 +37,26 @@ Accepted papers:
 
 Accepted papers: 
 - 2026: 
+    - Proceedings: 
+    - Workshops: https://openreview.net/group?id=ijcai.org/IJCAI/2026
+- 2025: 
+    - Proceedings: https://www.ijcai.org/proceedings/2025/ 
+    - Workshops: https://openreview.net/group?id=ijcai.org/IJCAI/2025
+- 2024: 
+    - Proceedings: https://www.ijcai.org/proceedings/2024/
+    - Workshops: https://openreview.net/group?id=ijcai.org/IJCAI/2024
+- 2023: 
+    - Proceedings: https://www.ijcai.org/proceedings/2023/
+    - Workshops: https://openreview.net/group?id=ijcai.org/IJCAI/2023
+
+### 6. CVPR - https://www.thecvf.com/
+- 2026: 
+    - https://openaccess.thecvf.com/CVPR2026?day=all
+- 2025: 
+    - https://openaccess.thecvf.com/CVPR2025?day=all
+- 2024: 
+    - https://openaccess.thecvf.com/CVPR2024?day=all
+- 2023: 
+    - https://openaccess.thecvf.com/CVPR2023?day=all
+
+### 7. 
