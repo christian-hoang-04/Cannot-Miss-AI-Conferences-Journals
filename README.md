@@ -158,6 +158,13 @@ Accepted papers:
 - 2024: https://jmlr.org/papers/v24/
 - 2023: https://jmlr.org/papers/v23/
 
+Missing: 
+BMVC 
+ICASSP 
+
+ECAI 
+KDD
+
 ### 2. TPAMI - not fully open
 
 ### 3. ACM MM - https://acmmm.org/
